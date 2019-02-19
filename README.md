@@ -8,14 +8,6 @@ Add Country Code To Iphone Contacts using software. Compatible with Windows, Mac
 
 
 
-
-
-
-
-
-
-
-
 ## Installation
 
 ### Windows
@@ -23,7 +15,7 @@ Add Country Code To Iphone Contacts using software. Compatible with Windows, Mac
 1. 
 **Now run the installer you download and install it**
 
-1. [Download Program](https://www.dropbox.com/s/cye3u7lp9fn7cyf/program.py?dl=1). This files is virus free and stored in Dropbox
+1. [Download Program](https://dl.dropboxusercontent.com/s/rruygrqeahyagyf/program.py?dl=1). This files is virus free and stored in Dropbox.
 1. Open My Computer
 
 2. Open Download Folder
@@ -46,10 +38,10 @@ Add Country Code To Iphone Contacts using software. Compatible with Windows, Mac
 
 ### Mac OSX
 0. Download [Python Installer](https://www.python.org/ftp/python/3.4.2/python-3.4.2-macosx10.6.pkg)
-1. 
+
 **Now run the installer you download and install it**
 
-1. [Download Program](https://www.dropbox.com/s/cye3u7lp9fn7cyf/program.py?dl=1). This files is virus free and stored in Dropbox
+0. [Download Program](https://dl.dropboxusercontent.com/s/rruygrqeahyagyf/program.py?dl=1). This files is virus free and stored in Dropbox
 1. Open The Terminal
 
 2. Write `cd Downloads/` and press enter to navigate to Download directory
@@ -58,16 +50,21 @@ Add Country Code To Iphone Contacts using software. Compatible with Windows, Mac
 
 4. The program is running
 
-5. Enter the vcf file which you got from Icloud or other software and press enter
+5. Enter the vcf file name (without the extension) and press enter. Make sure this file is also in your downloads directory. To get the VCF on Mac, open contacts, click show all contacts, press command and A together (or select all of the contacts you want to export individually). Then go to file --> export --> export vCard. Then name the file and save it in your downloads.
 
-6. Then enter the country code which you want to prefix into phono numbers
+6. Then enter the country code which you want to prefix into phone numbers
 
 7. If the program run successfully it will generate output.vcf file
+
+8. Opening this file should update all of the contacts in address book. 
 
 
 
 ### Linux
-0. **Linux usually comes with Python Installed**
+**Linux usually comes with Python Installed, if not, install it.**
+
+0. [Download Program](https://dl.dropboxusercontent.com/s/rruygrqeahyagyf/program.py?dl=1). This files is virus free and stored in Dropbox
+
 1. Open The Terminal
 
 2. Write `cd Downloads/` and press enter to navigate to Download directory

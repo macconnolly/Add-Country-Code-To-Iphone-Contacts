@@ -8,14 +8,6 @@ Add Country Code To Iphone Contacts using software. Compatible with Windows, Mac
 
 
 
-
-
-
-
-
-
-
-
 ## Installation
 
 ### Windows
@@ -81,7 +73,7 @@ Add Country Code To Iphone Contacts using software. Compatible with Windows, Mac
 
 4. The program is running
 
-5. Enter the vcf file name (without the extension) and press enter. Make sure this file is also in your downloads directory.
+5. Enter the vcf file which you got from Icloud or other software and press enter
 
 6. Then enter the country code which you want to prefix into phono numbers
 
